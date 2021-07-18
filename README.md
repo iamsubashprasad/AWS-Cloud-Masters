@@ -33,4 +33,5 @@ Cloud computing is shared pools of configurable computer system resources and hi
 7. Netflix, Reddit, Pinnerest are running on AWS
 8. AWS offering 108+ services (Machine Learning, Database,Internet of Things, Storage..etc..)
 
-
+## AWS Customer Sucess
+https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all&awsf.customer-references-product=*all
